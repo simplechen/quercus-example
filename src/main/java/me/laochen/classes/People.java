@@ -25,10 +25,13 @@ public class People {
 		System.err.println("[php call java class People]"+this.name+"|"+this.phoneNo);
 	}
 	
+	
 	@Override
 	public String toString() {
 		return "People [name=" + name + ", phoneNo=" + phoneNo + "]";
 	}
+	
+	
 	
 	
 }
