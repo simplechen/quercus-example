@@ -12,10 +12,12 @@
 			<artifactId>quercus</artifactId>
 			<version>4.0.45</version>
 		</dependency>
+		
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.46</version>
 		</dependency>
+		
 	</dependencies>
 </project>
